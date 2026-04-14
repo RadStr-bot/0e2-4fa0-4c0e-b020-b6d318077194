@@ -1,0 +1,24 @@
+{
+  "iri": "http://dataspecer.com/packages/local-root/47cca0e2-4fa0-4c0e-b020-b6d318077194",
+  "projectIri": "ce63f266-ce5f-40c0-a08b-4ffc9e677301",
+  "types": [
+    "http://dataspecer.com/resources/local/package"
+  ],
+  "userMetadata": {
+    "label": {
+      "en": "eqwe"
+    },
+    "description": {
+      "en": "This specification defines terms needed to describe application profiles,"
+    },
+    "importedFromUrl": "https://mff-uk.github.io/data-specification-vocabulary/dsv/",
+    "documentBaseUrl": "https://mff-uk.github.io/data-specification-vocabulary/dsv/"
+  },
+  "metadata": {
+    "creationDate": "2026-04-14T13:49:42.699Z",
+    "modificationDate": "2026-04-14T13:56:39.433Z"
+  },
+  "_version": 1,
+  "_exportVersion": 2,
+  "_exportedBy": "http://localhost:3100"
+}
